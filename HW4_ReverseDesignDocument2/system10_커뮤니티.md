@@ -1,57 +1,14 @@
 # 시스템 정의
-  - 현재 시스템의 정의 입력
-  
+  - 게임 상에서 다른 플레이어들과 교류하는 수단
+
 # 시스템 설명
-  - 현재 시스템에 대한 구체적인 설명 및 절차 입력
-  - 어떤 기능이 있고, 어떤 용어들이 있고, 어떻게 하면 어떻게 되고 등등..
-<br>
-<br>
+  - 친구, 클랜, 크루 항목에 등록된 플레이어들과 교류할 수 있음
 
+## 친구 커뮤니티 관리
+![친구커뮤](https://postfiles.pstatic.net/MjAxODExMDlfMTg4/MDAxNTQxNzAxMjgwMDcx.o8dRmUqgXNBaaMl3D8dFsqgFo6VZs-irSQukaZTXXa0g.1N6C-qy297DD2dLEJ8VEURDGONNoHdOeXrrlQJUmisQg.PNG.xorud1217/%EC%B9%9C%EA%B5%AC.png?type=w773)
 
-# 기본실행순서
-![NoImage](./Resource/system0*.jpg)  
+## 클랜 커뮤니티 관리
+![클랜커뮤](https://postfiles.pstatic.net/MjAxODExMDlfMjY3/MDAxNTQxNzAxMjgwMDc1.5tutOrHpqQ3phC4axmn6CDvkHoPRAww6yImL3mm5WaAg.NSI-qNwWUZ3Ix4_HXHl2Kv6Rlqnf9gSNbuC73Re9_e0g.PNG.xorud1217/%ED%81%B4%EB%9E%9C.png?type=w773)
 
-또는 png
-
-번호 | 사용자 행위 | 화면상의 결과
-:-------: | :-------: | :-------:
-1 | 특정 행동 및 상황 | 그에 따라 발생하는 이벤트(결과)
-2 | 특정 행동 및 상황 | 그에 따라 발생하는 이벤트(결과)
-3-1 | 특정 행동 및 상황 |  그에 따라 발생하는 이벤트(결과)
-3-2 | 특정 행동 및 상황 | 그에 따라 발생하는 이벤트(결과)
-4-1 | 특정 행동 및 상황 | 그에 따라 발생하는 이벤트(결과)
-4-2 | 특정 행동 및 상황 | 그에 따라 발생하는 이벤트(결과)
-5 | 특정 행동 및 상황 | 그에 따라 발생하는 이벤트(결과)
-
-- 번호는 사건이 1-2-3-4-5 순서대로 진행됨을 보여줌
-- 분기가 발생하면 3-1 3-2와 같은 형태로 표시
-    - 1 -> 2 ->  3-1  -> 4-1 ->  5의 순서로 진행
-    - 1 -> 2 ->  3-2  -> 4-2 ->  5의 순서로 진행
-
-<br>
-만약에 해당 문서에 여러개의 순서도가 필요하게 되면 아래와 같은 방식으로 작성
-
-## 상황1
-![NoImage](./Resource/system0*.jpg)
-
-번호 | 사용자 행위 | 화면상의 결과
-:-------: | :-------: | :-------:
-1 |  | 
-
-## 상황2
-![NoImage](./Resource/system0*.jpg)
-
-번호 | 사용자 행위 | 화면상의 결과
-:-------: | :-------: | :-------:
-1 |  | 
-2 |  | 
-## 상황3
-![NoImage](./Resource/system0*.jpg)
-
-번호 | 사용자 행위 | 화면상의 결과
-:-------: | :-------: | :-------:
-1 |  |  
-
-
-<br>
-<br>
+## 크루 커뮤니티 관리
+![크루커뮤](https://postfiles.pstatic.net/MjAxODExMDlfMTgy/MDAxNTQxNzAxMjgwMDYy.EXDNTtWxG_J1bypykln6I_8sylVokPyjffuwKZuM61gg.4Z68tzRkLuUhmk6SInOmDKcAsQJ1yxUmw_kTIanbf8cg.PNG.xorud1217/%ED%81%AC%EB%A3%A8.png?type=w773)

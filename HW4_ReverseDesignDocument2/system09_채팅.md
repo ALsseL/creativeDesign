@@ -1,57 +1,23 @@
 # 시스템 정의
-  - 현재 시스템의 정의 입력
-  
+  - 게임 내의 사람들과 메시지를 주고 받을 수 있는 기능
+  - 친구, 파티원, 클랜원, 그리고 배틀그라운드를 플레이하는 각국의 플레이어들과 소통할 수 있음.
+
 # 시스템 설명
-  - 현재 시스템에 대한 구체적인 설명 및 절차 입력
-  - 어떤 기능이 있고, 어떤 용어들이 있고, 어떻게 하면 어떻게 되고 등등..
-<br>
-<br>
+  - 메시지를 보낼 대상을 설정(친구, 파티원, 클랜원, 각국의 플레이어 등)한 후, 메시지를 작성해 보낼 수 있음.
+  - 파티 채팅 기능에서는 파티에 가입한 상태여야 채팅 가능
+  - 클랜 채팅은 개인대 개인으로 메시지를 보내는 것이 아니라 클랜원 전체에게 메시지가 전송되는 형식임.
 
+# 기본 실행 순서
+![채팅](https://postfiles.pstatic.net/MjAxODExMDlfMjM2/MDAxNTQxNzAxMjgwMDQ3.sr-1_2zfGjK9Z77cEaVrOWDrGCkCBcFNWHMqgrY66U8g.IRszzHe-rbziXYbNEESEgt4Q9_iHbNBFNASz_3xccnsg.PNG.xorud1217/%EC%B1%84%ED%8C%85_%EB%A9%94%EB%89%B4.png?type=w773)
 
-# 기본실행순서
-![NoImage](./Resource/system0*.jpg)  
+## 월드 채팅
+![월드](https://postfiles.pstatic.net/MjAxODExMDlfMTQw/MDAxNTQxNzAxMjgwMDYy.eN3OzYrglZHZCsIVk19jvBUFWy-_SRnLFEgilxYluh8g.S_s6FAU6OBu7E90JA1Woqa4f_gYCe-eFKvfTo9kkInog.PNG.xorud1217/%EC%9B%94%EB%93%9C%EC%B1%84%ED%8C%85.png?type=w773)
 
-또는 png
+## 친구 채팅
+![친구](https://postfiles.pstatic.net/MjAxODExMDlfNTYg/MDAxNTQxNzAxMjgwMDQx.LrbsrgBDQuJS33uyt4_ZlkAynJy5wOraUbod1P8juCEg.qYIodMpfdyAiMBolDhTXi8q-2ZEaLWSiZMF-lHPm_Kog.PNG.xorud1217/%EC%B9%9C%EA%B5%AC%EC%B1%84%ED%8C%85.png?type=w773)
 
-번호 | 사용자 행위 | 화면상의 결과
-:-------: | :-------: | :-------:
-1 | 특정 행동 및 상황 | 그에 따라 발생하는 이벤트(결과)
-2 | 특정 행동 및 상황 | 그에 따라 발생하는 이벤트(결과)
-3-1 | 특정 행동 및 상황 |  그에 따라 발생하는 이벤트(결과)
-3-2 | 특정 행동 및 상황 | 그에 따라 발생하는 이벤트(결과)
-4-1 | 특정 행동 및 상황 | 그에 따라 발생하는 이벤트(결과)
-4-2 | 특정 행동 및 상황 | 그에 따라 발생하는 이벤트(결과)
-5 | 특정 행동 및 상황 | 그에 따라 발생하는 이벤트(결과)
+## 파티 채팅
+![파티](https://postfiles.pstatic.net/MjAxODExMDlfMTg0/MDAxNTQxNzAxMjgwMzUy.zW8an8shhFTv8UPzDY5vdqvUsvdufWAAiGApfC81Kcog.V_SE7luAXiwaPPd2U2dVosJepQCxC0AFCnyYO63zWw4g.PNG.xorud1217/%ED%8C%8C%ED%8B%B0%EC%B1%84%ED%8C%85.png?type=w773)
 
-- 번호는 사건이 1-2-3-4-5 순서대로 진행됨을 보여줌
-- 분기가 발생하면 3-1 3-2와 같은 형태로 표시
-    - 1 -> 2 ->  3-1  -> 4-1 ->  5의 순서로 진행
-    - 1 -> 2 ->  3-2  -> 4-2 ->  5의 순서로 진행
-
-<br>
-만약에 해당 문서에 여러개의 순서도가 필요하게 되면 아래와 같은 방식으로 작성
-
-## 상황1
-![NoImage](./Resource/system0*.jpg)
-
-번호 | 사용자 행위 | 화면상의 결과
-:-------: | :-------: | :-------:
-1 |  | 
-
-## 상황2
-![NoImage](./Resource/system0*.jpg)
-
-번호 | 사용자 행위 | 화면상의 결과
-:-------: | :-------: | :-------:
-1 |  | 
-2 |  | 
-## 상황3
-![NoImage](./Resource/system0*.jpg)
-
-번호 | 사용자 행위 | 화면상의 결과
-:-------: | :-------: | :-------:
-1 |  |  
-
-
-<br>
-<br>
+## 클랜 채팅
+![클랜](https://postfiles.pstatic.net/MjAxODExMDlfMjM4/MDAxNTQxNzAxMjgwMzAx.FXYcjnS0zwe2uW-XvTc7ESoErMvFoBDvCQJ4zlz8xHcg.EzmwffH38a717Q8eVb72EPYCcx5pVWLD24qxcZoWVb8g.PNG.xorud1217/%ED%81%B4%EB%9E%9C%EC%B1%84%ED%8C%85.png?type=w773)

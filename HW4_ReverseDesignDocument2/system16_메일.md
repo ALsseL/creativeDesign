@@ -9,7 +9,7 @@
 
 
 # 기본실행순서
-![NoImage](./메일.png)  
+![NoImage](./Resource/메일.png)  
 
 
 

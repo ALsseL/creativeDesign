@@ -9,7 +9,7 @@
 
 
 # 기본실행순서
-![NoImage](./설정.png)  
+![NoImage](./Resource/설정.png)  
 
 
 
