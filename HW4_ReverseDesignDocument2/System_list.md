@@ -4,7 +4,7 @@
 :-------: | :-------: | :-------: | :-------:
 1 | [system-01](/HW4_ReverseDesignDocument2/system01_게임플레이.md) | 게임플레이 시스템 | 기본적인 게임 진행방식
 2 | [system-02](/HW4_ReverseDesignDocument2/system02_게임정보.md) | 게임정보 시스템 | 게임진행에 필요한 정보를 알려주는 시스템
-3 | [system-03](/HW4_ReverseDesignDocument2/system03_캐릭터.md) | 캐릭터 동작 시스템 | 플레이어 캐릭터의 상태 및 동작 시스템
+3 | [system-03](/HW4_ReverseDesignDocument2/system03_캐릭터동작.md) | 캐릭터 동작 시스템 | 플레이어 캐릭터의 상태 및 동작 시스템
 4 | [system-04](/HW4_ReverseDesignDocument2/system04_자기장.md) | 자기장 시스템 | 게임 요소 중 하나인 자기장에 대한 시스템
 5 | [system-05](/HW4_ReverseDesignDocument2/system05_보급.md) | 보급 시스템 | 게임 요소 중 하나인 보급에 대한 시스템
 6 | [system-06](/HW4_ReverseDesignDocument2/system06_레드존.md) | 레드존 시스템 | 게임 요소 중 하나인 레드존에 대한 시스템
